@@ -1,0 +1,6 @@
+---
+- name: Deploy Kubernetes Stack
+  hosts: all
+  become: true
+  roles:
+    - role: ansible-jenkins
