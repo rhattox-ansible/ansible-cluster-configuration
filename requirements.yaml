@@ -1,6 +1,6 @@
 ---
 roles:
-  - src: git@github.com:rhattox-ansible/ansible-jenkins
+  - src: git@github.com:rhattox-ansible/ansible-containerd
     scm: git
     version: main
-    name: ansible-jenkins
+    name: ansible-containerd
