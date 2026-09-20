@@ -1,0 +1,2 @@
+[all]
+debian-server ansible_host=192.168.1.59 ansible_user=dev
